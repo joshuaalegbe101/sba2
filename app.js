@@ -1,13 +1,22 @@
 /*
 A. Q + A
 How do we assign a value to a variable?
-    Using let, const, or var
+    Using let, const, or var (let i = 0)
+
 How do we change the value of a variable?
-    Reassigning the value of the variable
+    Reassigning the value of the variable (y = 3), ( y = -3209)
+
 How do we assign an existing variable to a new variable?
+    By assigning the existing variable to the new variable (x = y)
+
 Remind me, what are declare, assign, and define?
+    You declare a variable to use it, you assign a value to a declared variable, and undefined variables cannot be used
+
 What is pseudocoding and why should you do it?
+    Pseudocode is the logic and outline behind the code minus the syntax
+
 What percentage of time should be spent thinking about how you're going to solve a problem vs actually typing in code to solve it?
+    70/30
 */
 
 //--------------   B. Strings ---------------------------
